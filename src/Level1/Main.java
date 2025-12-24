@@ -1,10 +1,12 @@
+package Level1;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("--- Prova EmptySaleException ---");
+        System.out.println("--- Prova Level1.EmptySaleException ---");
         Sale sale = new Sale();
 
         try {
